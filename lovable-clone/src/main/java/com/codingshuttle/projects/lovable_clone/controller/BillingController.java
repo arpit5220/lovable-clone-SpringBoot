@@ -4,6 +4,7 @@ package com.codingshuttle.projects.lovable_clone.controller;
 import com.codingshuttle.projects.lovable_clone.dto.subscription.*;
 import com.codingshuttle.projects.lovable_clone.service.PlanService;
 import com.codingshuttle.projects.lovable_clone.service.SubscriptionService;
+import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
